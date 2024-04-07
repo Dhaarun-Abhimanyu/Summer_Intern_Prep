@@ -19,7 +19,7 @@ Securing a summer internship can be a crucial step in your academic and professi
 To get started with this repository, simply clone it to your local machine:
 
 ```bash
-[git clone https://github.com/yourusername/xyz-tech-internship-prep.git](https://github.com/Dhaarun-Abhimanyu/Summer_Intern_Prep.git)
+https://github.com/Dhaarun-Abhimanyu/Summer_Intern_Prep.git
 ```
 Once cloned, feel free to explore the various directories and resources available. You can contribute by adding your own tips, insights, or useful links to help fellow students succeed in their internship endeavors.
 
