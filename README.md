@@ -29,6 +29,7 @@ Once cloned, feel free to explore the various directories and resources availabl
 - **Interview Preparation:** Access a wide range of interview questions, tips, and mock interview resources to sharpen your interview skills.
 - **Application Guidance:** Learn best practices for researching internship opportunities, crafting cover letters, and submitting standout applications.
 - **Networking Tips:** Discover strategies for building professional networks and leveraging them to uncover internship opportunities.
+- **Hackathon Preparation** Learn the vairous stacks to learn to gear up for hackathons and crack them with ease
 
 ## Contributing
 
@@ -37,6 +38,7 @@ We welcome contributions from students, alumni, and industry professionals alike
 - Adding new resources or directories
 - Improving existing documentation
 - Reporting bugs or suggesting enhancements
+- Adding timelines and deadlines in the project
 
 To contribute, simply fork this repository, make your changes, and submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
